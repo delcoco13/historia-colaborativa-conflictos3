@@ -1,4 +1,11 @@
+
 Esta es
 La introduccion 
 en 3 lineas
+<<<<<<< HEAD
 Final Persona A 
+=======
+
+este es el desarrollo
+final persona b 
+>>>>>>> c3934ae6a05ea35c358ddcd68cd71b5fbdee7ab7
